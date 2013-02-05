@@ -7,7 +7,6 @@ Rails factory boilerplate including:
 *mocha
 *capybara
 *cucumber
-*dejan/rails_panel
 
 Branches are planned for various authorization boilerplates:
 
